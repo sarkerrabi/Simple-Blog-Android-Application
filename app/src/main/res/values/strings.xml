@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Simple Blog</string>
+    <string name="business">Business</string>
+    <string name="lifestyle">Lifestyle</string>
+    <string name="categories">Categories</string>
+    <string name="description">Description</string>
+    <string name="title">Title</string>
+    <string name="show_blog_details">Show Blog Details</string>
+    <string name="create_blog_post">Create Blog Post</string>
+</resources>
